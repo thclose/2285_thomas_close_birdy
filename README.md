@@ -9,8 +9,8 @@
 
 ## Wireframe
 
-<a href="../fichiers/wireframe.xd">Wireframe</a>
+<a href="https://github.com/thclose/2285_thomas_close_birdy/blob/main/fichiers/wireframe.xd">Wireframe</a>
 
 ## Application
 
-<a href="./fichiers/moodboard.xd">Application</a>
+<a href="https://github.com/thclose/2285_thomas_close_birdy/blob/main/fichiers/application.xd">Application</a>
